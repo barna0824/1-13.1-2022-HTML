@@ -1,0 +1,25 @@
+body{
+    color: #00008B;
+    background-color: #87cefa;
+}
+.tabla{
+    margin-left: 5%;
+    width: 90%;
+    border: 0;
+}
+.szoveg{
+    text-align: justify;
+    width: 100%
+}
+h1{
+    text-align: left;
+}
+img{
+    text-align: right;
+}
+.akep{
+    text-align: center;
+}
+.pék{
+    text-align:right;
+}
